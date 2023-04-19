@@ -1,8 +1,9 @@
-Hello everyone. I'm a front-end developer student at HackYourFuture-CPH coding school. I'm Brazilian, I have lived in Texas-USA for almost 9 years, currently living in Copenhagen-DK.
+Hello everyone. I'm Rodrigo, front-end web developer student at HackYourFuture-DK, where for the last 8 months I have been acquiring the necessary skills to become a web developer.
 
-- 🔭 I’m currently working on ... become a front-end developer!
-- 🌱 I’m currently learning ... JavaScript.
-- 🤔 I’m looking for help with ... anything.
-- 💬 Ask me about ... anything.
-- 😄 Pronouns: ... he/him.
--->
+With determination, Rodrigo has been sharpening his skills in HTML, CSS, JavaScript, and mastering Git and GitHub for version control, as well as recently exploring the world of React.
+
+In addition, Rodrigo is also exploring back-end development, gaining experience with NodeJs and database using MySQL.
+
+Rodrigo is Brazilian, has lived in Texas-USA for almost 9 years, and is currently living in Copenhagen-DK.
+
+Rodrigo is a family guy who loves the sea, motorcycles, outdoor activities, and cooking for family and friends. 
