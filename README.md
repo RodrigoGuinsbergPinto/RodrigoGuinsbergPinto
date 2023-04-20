@@ -6,4 +6,6 @@ In addition, Rodrigo is also exploring back-end development, gaining experience 
 
 Rodrigo is Brazilian, has lived in Texas-USA for almost 9 years, and is currently living in Copenhagen-DK.
 
-Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for family and friends. 
+Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for family and friends.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
