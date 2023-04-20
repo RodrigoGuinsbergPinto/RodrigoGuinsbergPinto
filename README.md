@@ -8,4 +8,4 @@ Rodrigo is Brazilian, has lived in Texas-USA for almost 9 years, and is currentl
 
 Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for family and friends.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode)](https://skillicons.dev)
