@@ -10,4 +10,4 @@ Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for f
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode)](https://skillicons.dev)
 
-<a href="https://www.codewars.com/users/RGPinto" traget="_blank"><img align="left" src="https://www.codewars.com/users/username/badges/micro" /></a>
+<a href="https://www.codewars.com/users/RGPinto" traget="_blank"><img align="left" src="https://www.codewars.com/users/RGPinto/badges/micro" /></a>
