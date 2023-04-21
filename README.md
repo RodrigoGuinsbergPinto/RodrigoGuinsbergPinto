@@ -9,3 +9,5 @@ Rodrigo is Brazilian and is currently living in Copenhagen-DK.
 Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for family and friends.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode)](https://skillicons.dev)
+
+<a href="https://www.codewars.com/users/RGPinto" traget="_blank"><img align="left" src="https://www.codewars.com/users/username/badges/micro" /></a>
