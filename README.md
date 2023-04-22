@@ -1,18 +1,11 @@
-Hello everyone. I'm Rodrigo, front-end web developer student at HackYourFuture-DK, where for the last 8 months I have been acquiring the necessary skills to become a web developer.
-
-With determination, Rodrigo has been sharpening his skills in HTML, CSS, JavaScript, and mastering Git and GitHub for version control, as well as recently exploring the world of React.
-
-In addition, Rodrigo is also exploring back-end development, gaining experience with NodeJs and database using MySQL.
-
-Rodrigo is Brazilian and is currently living in Copenhagen-DK.
-
-Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for family and friends.
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">a front-end web developer student at HackYourFuture-DK.</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode)](https://skillicons.dev)
+<p align="left">Over the last 8 months, I have been working hard to acquire the skills necessary to become a web developer.</p>
+<p align="left">I have been determined to sharpen my skills in HTML, CSS, JavaScript, and mastering Git and GitHub for version control. Recently, I have been exploring the world of React, which has been exciting and challenging.</p>
+<p align="left">In addition, I have also been exploring back-end development, where I have gained experience with NodeJs and database using MySQL.</p>
+<p align="left">As a Brazilian, I currently reside in Copenhagen-DK. When I am not coding, I am a family guy who loves to spend time by the sea, indulge in outdoor activities, and cook for my family and friends. It's another way to have some fun after a day of coding.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoguinsbergpinto&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoguinsbergpinto" /> </p>
 
 
 
@@ -40,3 +33,5 @@ Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for f
 
 
 <a href="https://www.codewars.com/users/RGPinto" traget="_blank"><img align="left" src="https://www.codewars.com/users/RGPinto/badges/micro" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoguinsbergpinto&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoguinsbergpinto" /> </p>
