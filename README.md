@@ -12,7 +12,7 @@ Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for f
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoguinsbergpinto&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoguinsbergpinto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoguinsbergpinto" alt="rodrigoguinsbergpinto" /></a> </p>
+
 
 - 🔭 I’m currently working on **my education on web development at HackYourFuture-CPH.**
 
