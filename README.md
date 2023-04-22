@@ -10,6 +10,8 @@ Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for f
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A frontend developer</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode)](https://skillicons.dev)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoguinsbergpinto&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoguinsbergpinto" /> </p>
 
 
@@ -34,6 +36,7 @@ Rodrigo is a family guy who loves the sea, outdoor activities, and cooking for f
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoguinsbergpinto&" alt="rodrigoguinsbergpinto" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode)](https://skillicons.dev)
+
+
 
 <a href="https://www.codewars.com/users/RGPinto" traget="_blank"><img align="left" src="https://www.codewars.com/users/RGPinto/badges/micro" /></a>
