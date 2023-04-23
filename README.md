@@ -2,9 +2,13 @@
 
 <h3 align="center">a front-end web developer student at HackYourFuture-DK.</h3>
 
-<p align="left">After moving to Copenhagen as an accompanying spouse, over the last 8 months, I have been working hard to acquire the skills necessary to become a web developer💻, learning HTML, CSS, JavaScript, Git, GitHub. Recently, I have been exploring the world of React, which has been exciting and challenging.🎯</p>
+<p align="left">After moving to Copenhagen as an accompanying spouse, over the last 8 months, I have been working hard to acquire the skills necessary to become a web developer.💻</p>
+
+<p align="left">Besides coding, I have a background in accounting, law, and the funeral industry.<p>
 
 <p align="left">I have also explored back-end development, to gain experience with NodeJs and database using MySQL. </p>
+
+<p align="left"></p>
 
 <p align="left">When I am not coding, I am a family guy who loves to spend time by the sea😎, indulge in outdoor activities🤾🏻‍♂️, and cook🍽️ for my family and friends. It's another way to have some fun after a day of coding.</p>
 
