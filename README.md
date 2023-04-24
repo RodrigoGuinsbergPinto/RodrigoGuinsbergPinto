@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,react,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,react,vscode,git,postman)](https://skillicons.dev)
 
 
 
@@ -42,13 +42,6 @@
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoguinsbergpinto&show_icons=true&locale=en&layout=compact" alt="rodrigoguinsbergpinto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoguinsbergpinto&show_icons=true&locale=en" alt="rodrigoguinsbergpinto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoguinsbergpinto&" alt="rodrigoguinsbergpinto" /></p>
 
 <a href="https://www.codewars.com/users/RGPinto" traget="_blank"><img align="left" src="https://www.codewars.com/users/RGPinto/badges/micro" /></a>
 
