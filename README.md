@@ -6,7 +6,7 @@
 
 <p align="left">I have also explored back-end development, to gain experience with NodeJs and database using MySQL. </p>
 
-<p align="left">Besides coding, I have a background in accounting, law, and the funeral industry.<p>
+<p align="left">Besides coding, I have a background in accounting, law, and the funeral service industry.<p>
 
 <p align="left">When I am not coding, I am a family guy who loves to spend time by the sea😎, indulge in outdoor activities🤾🏻‍♂️, and cook🍽️ for my family and friends. It's another way to have some fun after a day of coding.</p>
 
